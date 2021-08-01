@@ -1,0 +1,70 @@
+
+
+
+.jumbotron {
+    
+    background-color:none;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.jumbotron h1{
+    
+    font-size: 5rem;
+}
+
+.sectiondark {
+    background-color: #cccccc;
+    padding: 50px;
+    margin-top: 30px;
+}
+button.wrapbtn{
+    
+    background-color: red;
+    display: block;
+    margin: auto;
+}
+
+.formmodal{
+    
+    padding: 2rem;
+}
+
+.modal-header h5 {
+    
+    margin: auto;
+}
+
+.sectionlight2{
+    padding: 2rem;
+}
+
+.imgcenter{
+    
+    display: block;
+    margin: auto;
+}
+.btncenter{
+    display: block;
+    margin:auto;
+    background-color:burlywood;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    width: 50%;
+    }
+.btncenter:hover{
+    
+    background-color: dimgray;
+    color: black;
+}
+
+.fa-facebook-square{
+    
+    color: #3b5998;
+}
+body{
+    
+    background-image: linear-gradient(	 #e0e0eb,#9494b8 );
+}
+   
+
